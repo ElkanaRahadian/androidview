@@ -1,7 +1,7 @@
 # Android View
 
 ## Overview
-Create Android UI
+Create Android UI using View
 
 ## Features
 - Use of Button

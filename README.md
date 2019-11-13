@@ -5,7 +5,7 @@ Create Android UI by using View
 
 ## Features
 Android View
-- Use of Button
+- Button
 - TextView
 - EditText
 

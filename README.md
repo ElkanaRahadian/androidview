@@ -4,7 +4,7 @@
 Use of View for Creating Android UI
 
 ## Features
-Android View
+Android View :
 - Button
 - TextView
 - EditText

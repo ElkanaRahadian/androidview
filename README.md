@@ -1,7 +1,7 @@
 # Android View
 
 ## Overview
-Use View for Creating Android UI
+Use of View for Creating Android UI
 
 ## Features
 Android View

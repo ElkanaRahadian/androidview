@@ -6,8 +6,8 @@ Use of View for Creating Android UI
 ## Features
 Android View :
 - Button
-- EditText
 - TextView
+- EditText
 
 ## Setup & Installation 
 Use of Android Studio

@@ -1,7 +1,7 @@
 # Android View
 
 ## Overview
-Create android UI using view
+Creating android UI using view
 
 ## Features
 Android View :
@@ -10,7 +10,7 @@ Android View :
 - EditText
 
 ## Setup & Installation 
-Using Android Studio
+Use of Android Studio
 
 ## Usage
 View Example :

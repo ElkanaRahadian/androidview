@@ -9,8 +9,8 @@ Android View :
 - TextView
 - EditText
 
-## Setup & Installation 
-Use of Android Studio
+## Setup & Installation
+Using Android Studio
 
 ## Usage
 Example of view :

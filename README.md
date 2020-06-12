@@ -13,6 +13,6 @@ Android View :
 Using Android Studio
 
 ## Usage
-Example view :
+View Example :
 
 ![Screenshot_Learning View and ViewGroup](https://user-images.githubusercontent.com/56164259/68088598-59b20f80-fe93-11e9-852d-100761101929.png)

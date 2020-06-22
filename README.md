@@ -10,7 +10,7 @@ Android View :
 - EditText
 
 ## Setup & Installation
-Use of Android Studio
+Using Android Studio
 
 ## Usage
 Example View :
